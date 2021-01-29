@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["flate2"] = [{"text":"impl StructuralPartialEq for GzHeader","synthetic":false,"types":[]},{"text":"impl StructuralPartialEq for FlushCompress","synthetic":false,"types":[]},{"text":"impl StructuralPartialEq for FlushDecompress","synthetic":false,"types":[]},{"text":"impl StructuralPartialEq for Status","synthetic":false,"types":[]},{"text":"impl StructuralPartialEq for Compression","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

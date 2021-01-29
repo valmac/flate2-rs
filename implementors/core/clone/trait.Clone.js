@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["flate2"] = [{"text":"impl Clone for GzHeader","synthetic":false,"types":[]},{"text":"impl Clone for FlushCompress","synthetic":false,"types":[]},{"text":"impl Clone for FlushDecompress","synthetic":false,"types":[]},{"text":"impl Clone for Status","synthetic":false,"types":[]},{"text":"impl Clone for Compression","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
